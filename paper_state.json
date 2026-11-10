@@ -1,5 +1,5 @@
 {
-  "cash": 602.8731735186609,
+  "cash": 701.0141514886401,
   "positions": {
     "hype_usdt": {
       "entry": 75.327645,
@@ -12,12 +12,6 @@
       "quantity": 0.14443408958614473,
       "cost": 100.0,
       "time": 1794264044
-    },
-    "ondo_usdt": {
-      "entry": 0.37738859999999996,
-      "quantity": 264.71414319377936,
-      "cost": 100.0,
-      "time": 1794264046
     },
     "avax_usdt": {
       "entry": 8.628312,
@@ -32,6 +26,12 @@
       "profit": 2.873174,
       "reason": "TAKE PROFIT",
       "time": 1794277539
+    },
+    {
+      "symbol": "ondo_usdt",
+      "profit": -1.859022,
+      "reason": "STOP LOSS",
+      "time": 1794284658
     }
   ],
   "created": 1794257746
