@@ -1,17 +1,11 @@
 {
-  "cash": 600.0,
+  "cash": 602.8731735186609,
   "positions": {
     "hype_usdt": {
       "entry": 75.327645,
       "quantity": 1.326207661212559,
       "cost": 100.0,
       "time": 1794257754
-    },
-    "gram_usdt": {
-      "entry": 1.0375184999999998,
-      "quantity": 96.28753598138245,
-      "cost": 100.00000000000001,
-      "time": 1794257758
     },
     "bnb_usdt": {
       "entry": 691.66566,
@@ -24,8 +18,21 @@
       "quantity": 264.71414319377936,
       "cost": 100.0,
       "time": 1794264046
+    },
+    "avax_usdt": {
+      "entry": 8.628312,
+      "quantity": 11.578174259356862,
+      "cost": 100.0,
+      "time": 1794277542
     }
   },
-  "closed_trades": [],
+  "closed_trades": [
+    {
+      "symbol": "gram_usdt",
+      "profit": 2.873174,
+      "reason": "TAKE PROFIT",
+      "time": 1794277539
+    }
+  ],
   "created": 1794257746
 }
